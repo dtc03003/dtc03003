@@ -38,7 +38,7 @@
 
 <br/><br/><br/><br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dtc03003&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dtc03003&show_icons=true&theme=transparent)
 
 # :mailbox_with_mail: Contacts
   <a href="https://velog.io/@dtc03003"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=black"></a>
